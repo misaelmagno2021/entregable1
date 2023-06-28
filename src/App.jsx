@@ -30,7 +30,7 @@ function App() {
       data={ phrases[ index ] }
       />
       
-      <button className="button" onClick={changePhrase} >Provar mi suerte</button>
+      <button className="button" onClick={changePhrase} >Probar mi suerte</button>
       
       </article>
       

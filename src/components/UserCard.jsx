@@ -6,7 +6,7 @@ const UserCard = ({data}) => {
 
             <h1 className="title">GALLETAS DE LA FORTUNA</h1>
             
-            <h3 className="text">{data.phrase}</h3>
+            <p className="text">{data.phrase}</p>
 
             <h5 className="author">Fuente: {data.author}</h5>
         
